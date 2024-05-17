@@ -26,3 +26,4 @@
 ***
 
 * [Monitoring](monitoring.md)
+* [References](https://github.com/girish979/references-pr/blob/main/Azure%20Networking.pdf)
